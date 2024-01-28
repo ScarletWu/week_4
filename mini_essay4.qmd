@@ -1,29 +1,31 @@
 ---
-title: "mini_essay4"
+title: "Practice Writing Research "
+author: "Ruoxian Wu"
+date: "2024-01-28"
 format: pdf
-editor: Ruoxian Wu
-date: format(Sys.time(), "%d %B %Y")
-format: pdf
-bibliography: bibliography.bib
 ---
 
-## Quarto
+## Pre-requisite article: 
+Surgical skill and Comlication Rates after Bariatric Suegery
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+## Day 1
+Transcribe, by writing each word yourself, the entire introduction.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+### Transcribed Introduction
+A considerable body of research surgestes that some surgeons have better results than others. Early studies of coronary-artery bypass surgery showed wide variation in risk-adjusted patient mortality across surgeons; studies of other procedures and other outcomes have shown similar variation among surgeons. Efforts to reduce such variation have focused primarily on improving perioperative care. For example, the Surgical Care Improvement  Project and related pay-for-performance programs have provided financial incentives to increase surgeons' compliance with evidence-based practices related to prophylaxis against surgical-site infection and venous thromboembolism. As of this writing, however, there is little evidence that such initiatives have improved outcomes overall or have reduced the variation on the outcomes across surgeons.
 
-```{r}
-1 + 1
-```
+In many procedures, the technical skill of the operating surgeon may be a more important determination of outcomes than perioperative care. A high level of surgical skill may be essential in preventing intraoperative problems such as bleeding or tissue devascilarization and may be associated with more precise reconstruction in cardiovascular or gastrointestinal surgery, possibly reducing the risk of anastomotic complications (e.g., thrombosis and leak, respectively). A high level of skill may also be associated with shorter operations, which are important in light of research linking prolonged operating times to increased risks of certain types of complications such as infection and venous thromboembolism. The importance of surgical skill may be inferred from studies assessing potential surrogate variables, including procedure volume and subspecialty training. As of this writing, however, few studies have directly assessed the technical skill of practicing surgeons, and to our knowledge none have linked the level of surgical skill to clinical outcomes.
 
-You can add options to executable code like this
+We conducted a population-based study of complications after gastric bypass surgery, a common but complex procedure for which outcomes have been shown to vary widely according to the surgeon. We first rated the technical skill of 20 practicing bariatric surgeons, as judged anonymously by their peers. We then examined the relationship between the surgeons’ technical skill and their risk-adjusted complication rates.
 
-```{r}
-#| echo: false
-2 * 2
-```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+## Day 2
+Rewrite the introduction so that it is five lines (or 10 per cent, whichever is less) shorter.
+
+## Shorter Introduction
+Many research suggests that some surgeons have better results than others. Early studies of coronary-artery bypass surgery showed wide variation in risk-adjusted patient mortality across surgeons; studies of other procedures and other outcomes have shown similar variation among surgeons. Efforts to reduce such variation have focused primarily on improving perioperative care. For example, the Surgical Care Improvement  Project and related pay-for-performance programs have provided financial incentives to increase surgeons' compliance with evidence-based practices related to prophylaxis against surgical-site infection and venous thromboembolism. Such initiatives have not improved outcomes or reduced outcome variation across surgeons.
+
+The surgeon's skill is often more important than perioperative care in surgical outcomes. Surgical skill is crucial in preventing problems during surgery and can lead to more precise reconstruction, reducing the risk of complications. A high level of skill can also shorten operations and reduce risks of complications. Potential surrogate variables such as procedure volume and subspecialty training can shed light on surgical skills. However, few studies have directly assessed the technical skill of practicing surgeons or have linked the level of surgical skill to clinical outcomes.
+
+We conducted a population-based study of complications after gastric bypass surgery, a common but complex procedure for which outcomes have been shown to vary widely according to the surgeon. We first rated the technical skills of 20 practicing bariatric surgeons, as judged anonymously by their peers. We then examined the relationship between the surgeons’ technical skill and their risk-adjusted complication rates.
